@@ -1,7 +1,7 @@
 # akiso
 Asignments for a subject 'Architecture of Computers and Operating Systems'
 
-egz: Explorer
+egz: Explorer - see raw text
 
                                    EXPLORER by Andrzej C. Ratajski
 
